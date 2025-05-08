@@ -3,7 +3,7 @@
 
 
 
-void createAccount(); // expandable with username and password
+void createAccount();
 void deposit();
 void withdraw();
 void showstatus();
